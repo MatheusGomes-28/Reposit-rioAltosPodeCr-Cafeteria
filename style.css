@@ -1,5 +1,12 @@
 #hero{
-    background-color: #3b2314;
+    background-color: #b57a54;
     color: white;
     padding: 100px;
+}
+
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    
 }
